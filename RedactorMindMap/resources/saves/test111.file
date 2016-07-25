@@ -1,0 +1,100 @@
+<title>new Diagram</title>
+<center>471,279</center>
+<top>
+<next>0</next>
+</top>
+<right>
+<next>3</next>
+<0><message>another text1</message><color>0,0,255</color><end>595,198</end><next>0</next>
+<1><message>Some text 1</message><color>102,255,153</color><end>665,211</end><next>0</next>
+<2><message>some text 2</message><color>255,255,0</color><end>771,306</end><next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>Test diagram</title>
+<center>390,183</center>
+<top>
+<next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>new Diagram</title>
+<center>390,183</center>
+<top>
+<next>0</next>
+</top>
+<right>
+<next>4</next>
+<0><message>Edit text</message><color>255,0,255</color><end>702,183</end><next>0</next>
+<1><message>Edit text</message><color>0,0,255</color><end>692,213</end><next>0</next>
+<2><message>Edit text</message><color>255,255,0</color><end>692,153</end><next>0</next>
+<3><message>Edit text</message><color>255,255,0</color><end>682,243</end><next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>new Diagram</title>
+<center>390,183</center>
+<top>
+<next>0</next>
+</top>
+<right>
+<next>3</next>
+<1><message>another text1</message><color>0,0,255</color><end>692,213</end><next>0</next>
+<2><message>Some text 1</message><color>255,255,0</color><end>692,153</end><next>0</next>
+<3><message>some text 2</message><color>255,255,0</color><end>682,243</end><next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>new Diagram</title>
+<center>390,183</center>
+<top>
+<next>0</next>
+</top>
+<right>
+<next>3</next>
+<1><message>another text1</message><color>0,0,255</color><end>514,102</end><next>0</next>
+<2><message>Some text 1</message><color>102,255,153</color><end>584,115</end><next>0</next>
+<3><message>some text 2</message><color>255,255,0</color><end>682,243</end><next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>new Diagram</title>
+<center>390,183</center>
+<top>
+<next>0</next>
+</top>
+<right>
+<next>3</next>
+<1><message>another text1</message><color>0,0,255</color><end>514,102</end><next>0</next>
+<2><message>Some text 1</message><color>102,255,153</color><end>584,115</end><next>0</next>
+<3><message>some text 2</message><color>255,255,0</color><end>690,210</end><next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>

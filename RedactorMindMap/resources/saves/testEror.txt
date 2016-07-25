@@ -1,0 +1,246 @@
+<title>Test diagram</title>
+<center>612,295
+<next>7</next>
+<0><message>Edit text</message><color>255,0,255</color><end>695,45</end><next>0</next>
+<1><message>Edit text</message><color>255,0,0</color><end>529,45</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>728,70</end><next>0</next>
+<3><message>Edit text</message><color>0,255,0</color><end>496,70</end><next>0</next>
+<4><message>Edit text</message><color>255,255,0</color><end>761,95</end><next>0</next>
+<5><message>Edit text</message><color>255,200,0</color><end>463,95</end><next>0</next>
+<6><message>Edit text</message><color>255,175,175</color><end>794,120</end><next>0</next>
+</top>
+<right>
+<next>6</next>
+<0><message>Edit text</message><color>255,0,0</color><end>924,295</end><next>0</next>
+<1><message>Edit text</message><color>255,255,0</color><end>914,325</end><next>0</next>
+<2><message>Edit text</message><color>255,175,175</color><end>914,265</end><next>0</next>
+<3><message>Edit text</message><color>255,0,0</color><end>904,355</end><next>0</next>
+<4><message>Edit text</message><color>255,175,175</color><end>904,235</end><next>0</next>
+<5><message>Edit text</message><color>255,200,0</color><end>894,385</end><next>0</next>
+</right>
+<bottom>
+<next>7</next>
+<0><message>Edit text</message><color>255,0,255</color><end>695,545</end><next>0</next>
+<1><message>Edit text</message><color>255,200,0</color><end>529,545</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>728,520</end><next>0</next>
+<3><message>Edit text</message><color>0,0,255</color><end>496,520</end><next>0</next>
+<4><message>Edit text</message><color>0,255,255</color><end>761,495</end><next>0</next>
+<5><message>Edit text</message><color>0,0,255</color><end>463,495</end><next>0</next>
+<6><message>Edit text</message><color>255,0,255</color><end>794,470</end><next>0</next>
+</bottom>
+<left>
+<next>7</next>
+<0><message>Edit text</message><color>255,175,175</color><end>300,295</end><next>3</next>
+<0,0><message>Edit text</message><color>255,0,0</color><end>50,295</end><next>0</next>
+<0,1><message>Edit text</message><color>255,0,0</color><end>60,325</end><next>0</next>
+<0,2><message>Edit text</message><color>255,255,0</color><end>60,265</end><next>0</next>
+<1><message>Edit text</message><color>0,255,0</color><end>310,325</end><next>0</next>
+<2><message>Edit text</message><color>0,255,255</color><end>310,265</end><next>0</next>
+<3><message>Edit text</message><color>0,255,255</color><end>320,355</end><next>0</next>
+<4><message>Edit text</message><color>0,0,255</color><end>320,235</end><next>0</next>
+<5><message>Edit text</message><color>255,255,0</color><end>330,385</end><next>0</next>
+<6><message>Edit text</message><color>0,255,255</color><end>330,205</end><next>0</next>
+</left>
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>5</next>
+<0><message>Edit text</message><color>255,0,255</color><end>623,42</end><next>0</next>
+<1><message>Edit text</message><color>255,0,0</color><end>457,42</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>656,67</end><next>0</next>
+<3><message>Edit text</message><color>0,255,0</color><end>424,67</end><next>0</next>
+<4><message>Edit text</message><color>255,255,0</color><end>689,92</end><next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>7</next>
+<0><message>Edit text</message><color>255,0,255</color><end>623,42</end><next>0</next>
+<1><message>Edit text</message><color>255,0,0</color><end>457,42</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>656,67</end><next>0</next>
+<3><message>Edit text</message><color>0,255,0</color><end>424,67</end><next>0</next>
+<4><message>Edit text</message><color>255,255,0</color><end>689,92</end><next>0</next>
+<5><message>Edit text</message><color>255,200,0</color><end>391,92</end><next>0</next>
+<6><message>Edit text</message><color>255,175,175</color><end>722,117</end><next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>3</next>
+<0><message>Edit text</message><color>255,175,175</color><end>228,292</end><next>0</next>
+<1><message>Edit text</message><color>0,255,0</color><end>238,322</end><next>0</next>
+<2><message>Edit text</message><color>0,255,255</color><end>238,262</end><next>0</next>
+</left>
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>7</next>
+<0><message>Edit text</message><color>255,0,255</color><end>623,42</end><next>0</next>
+<1><message>Edit text</message><color>255,0,0</color><end>457,42</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>656,67</end><next>0</next>
+<3><message>Edit text</message><color>0,255,0</color><end>424,67</end><next>0</next>
+<4><message>Edit text</message><color>255,255,0</color><end>689,92</end><next>0</next>
+<5><message>Edit text</message><color>255,200,0</color><end>391,92</end><next>0</next>
+<6><message>Edit text</message><color>255,175,175</color><end>722,117</end><next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>1</next>
+<0><message>Edit text</message><color>255,0,255</color><end>623,542</end><next>0</next>
+</bottom>
+<left>
+<next>7</next>
+<0><message>Edit text</message><color>255,175,175</color><end>228,292</end><next>0</next>
+<1><message>Edit text</message><color>0,255,0</color><end>238,322</end><next>0</next>
+<2><message>Edit text</message><color>0,255,255</color><end>238,262</end><next>0</next>
+<3><message>Edit text</message><color>0,255,255</color><end>248,352</end><next>0</next>
+<4><message>Edit text</message><color>0,0,255</color><end>248,232</end><next>0</next>
+<5><message>Edit text</message><color>255,255,0</color><end>258,382</end><next>0</next>
+<6><message>Edit text</message><color>0,255,255</color><end>258,202</end><next>0</next>
+</left>
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>7</next>
+<0><message>Edit text</message><color>255,0,255</color><end>623,42</end><next>0</next>
+<1><message>Edit text</message><color>255,0,0</color><end>457,42</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>656,67</end><next>0</next>
+<3><message>Edit text</message><color>0,255,0</color><end>424,67</end><next>0</next>
+<4><message>Edit text</message><color>255,255,0</color><end>689,92</end><next>0</next>
+<5><message>Edit text</message><color>255,200,0</color><end>391,92</end><next>0</next>
+<6><message>Edit text</message><color>255,175,175</color><end>722,117</end><next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>6</next>
+<0><message>Edit text</message><color>255,0,255</color><end>623,542</end><next>0</next>
+<1><message>Edit text</message><color>255,200,0</color><end>457,542</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>656,517</end><next>0</next>
+<3><message>Edit text</message><color>0,0,255</color><end>424,517</end><next>0</next>
+<4><message>Edit text</message><color>0,255,255689,492</end><next>0</next>
+<5><message>Edit text</message><color>0,0,255</color><end>391,492</end><next>0</next>
+</bottom>
+<left>
+<next>7</next>
+<0><message>Edit text</message><color>255,175,175</color><end>228,292</end><next>0</next>
+<1><message>Edit text</message><color>0,255,0</color><end>238,322</end><next>0</next>
+<2><message>Edit text</message><color>0,255,255</color><end>238,262</end><next>0</next>
+<3><message>Edit text</message><color>0,255,255</color><end>248,352</end><next>0</next>
+<4><message>Edit text</message><color>0,0,255</color><end>248,232</end><next>0</next>
+<5><message>Edit text</message><color>255,255,0</color><end>258,382</end><next>0</next>
+<6><message>Edit text</message><color>0,255,255</color><end>258,202</end><next>0</next>
+</left>
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>7</next>
+<0><message>Edit text</message><color>255,0,255</color><end>623,42</end><next>0</next>
+<1><message>Edit text</message><color>255,0,0</color><end>457,42</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>656,67</end><next>0</next>
+<3><message>Edit text</message><color>0,255,0</color><end>424,67</end><next>0</next>
+<4><message>Edit text</message><color>255,255,0</color><end>689,92</end><next>0</next>
+<5><message>Edit text</message><color>255,200,0</color><end>391,92</end><next>0</next>
+<6><message>Edit text</message><color>255,175,175</color><end>722,117</end><next>0</next>
+</top>
+<right>
+<next>4</next>
+<0><message>Edit text</message><color>255,0,0</color><end>852,292</end><next>0</next>
+<1><message>Edit text</message><color>255,255,0</color><end>842,322</end><next>0</next>
+<2><message>Edit text</message><color>255,175,175</color><end>842,262</end><next>0</next>
+<3><message>Edit text</message><color>255,0,0</color><end>832,352</end><next>0</next>
+</right>
+<bottom>
+<next>7</next>
+<0><message>Edit text</message><color>255,0,255</color><end>623,542</end><next>0</next>
+<1><message>Edit text</message><color>255,200,0</color><end>457,542</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>656,517</end><next>0</next>
+<3><message>Edit text</message><color>0,0,255</color><end>424,517</end><next>0</next>
+<4><message>Edit text</message><color>0,255,255</color><end>689,492</end><next>0</next>
+<5><message>Edit text</message><color>0,0,255</color><end>391,492</end><next>0</next>
+<6><message>Edit text</message><color>255,0,255</color><end>722,467</end><next>0</next>
+</bottom>
+<left>
+<next>7</next>
+<0><message>Edit text</message><color>255,175,175</color><end>228,292</end><next>0</next>
+<1><message>Edit text</message><color>0,255,0</color><end>238,322</end><next>0</next>
+<2><message>Edit text</message><color>0,255,255</color><end>238,262</end><next>0</next>
+<3><message>Edit text</message><color>0,255,255</color><end>248,352</end><next>0</next>
+<4><message>Edit text</message><color>0,0,255</color><end>248,232</end><next>0</next>
+<5><message>Edit text</message><color>255,255,0</color><end>258,382</end><next>0</next>
+<6><message>Edit text</message><color>0,255,255</color><end>258,202</end><next>0</next>
+</left>
+<title>Test diagram</title>
+<center>612,295</center>
+<top>
+<next>7</next>
+<0><message>Edit text</message><color>255,0,255</color><end>695,45</end><next>0</next>
+<1><message>Edit text</message><color>255,0,0</color><end>529,45</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>728,70</end><next>0</next>
+<3><message>Edit text</message><color>0,255,0</color><end>496,70</end><next>0</next>
+<4><message>Edit text</message><color>255,255,0</color><end>761,95</end><next>0</next>
+<5><message>Edit text</message><color>255,200,0</color><end>463,95</end><next>0</next>
+<6><message>Edit text</message><color>255,175,175</color><end>794,120</end><next>0</next>
+</top>
+<right>
+<next>6</next>
+<0><message>Edit text</message><color>255,0,0</color><end>924,295</end><next>0</next>
+<1><message>Edit text</message><color>255,255,0</color><end>914,325</end><next>0</next>
+<2><message>Edit text</message><color>255,175,175</color><end>914,265</end><next>0</next>
+<3><message>Edit text</message><color>255,0,0</color><end>904,355</end><next>0</next>
+<4><message>Edit text</message><color>255,175,175</color><end>904,235</end><next>0</next>
+<5><message>Edit text</message><color>255,200,0</color><end>894,385</end><next>0</next>
+</right>
+<bottom>
+<next>7</next>
+<0><message>Edit text</message><color>255,0,255</color><end>695,545</end><next>0</next>
+<1><message>Edit text</message><color>255,200,0</color><end>529,545</end><next>0</next>
+<2><message>Edit text</message><color>0,255,0</color><end>728,520</end><next>0</next>
+<3><message>Edit text</message><color>0,0,255</color><end>496,520</end><next>0</next>
+<4><message>Edit text</message><color>0,255,255</color><end>761,495</end><next>0</next>
+<5><message>Edit text</message><color>0,0,255</color><end>463,495</end><next>0</next>
+<6><message>Edit text</message><color>255,0,255</color><end>794,470</end><next>0</next>
+</bottom>
+<left>
+<next>7</next>
+<0><message>Edit text</message><color>255,175,175</color><end>300,295</end><next>3</next>
+<0,0><message>Edit text</message><color>255,0,0</color><end>50,295</end><next>0</next>
+<0,1><message>Edit text</message><color>255,0,0</color><end>60,325</end><next>0</next>
+<0,2><message>Edit text</message><color>255,255,0</color><end>60,265</end><next>0</next>
+<1><message>Edit text</message><color>0,255,0</color><end>310,325</end><next>0</next>
+<2><message>Edit text</message><color>0,255,255</color><end>310,265</end><next>0</next>
+<3><message>Edit text</message><color>0,255,255</color><end>320,355</end><next>0</next>
+<4><message>Edit text</message><color>0,0,255</color><end>320,235</end><next>0</next>
+<5><message>Edit text</message><color>255,255,0</color><end>330,385</end><next>0</next>
+<6><message>Edit text</message><color>0,255,255</color><end>330,205</end><next>0</next>
+</left>

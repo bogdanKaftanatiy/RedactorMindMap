@@ -1,0 +1,30 @@
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>2</next>
+<0><message>Edit text</message><color>255,175,175</color><end>623,42</end><next>0</next>
+<1><message>Edit text</message><color>0,0,255</color><end>457,42</end><next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>

@@ -1,0 +1,26 @@
+<title>Test 1</title>
+<center>395,303</center>
+<top>
+<next>2</next>
+<0><message>first line</message><color>255,200,0</color><end>478,53</end><next>0</next>
+<1><message>second line</message><color>255,175,175</color><end>322,53</end><next>1</next>
+<1,0><message>third line</message><color>255,0,255</color><end>72,53</end><next>0</next>
+</top>
+<right>
+<next>1</next>
+<0><message>Edit text</message><color>255,255,0</color><end>707,303</end><next>3</next>
+<0,0><message>Edit text</message><color>0,0,255</color><end>957,303</end><next>0</next>
+<0,1><message>Edit text</message><color>0,0,255</color><end>947,333</end><next>0</next>
+<0,2><message>Edit text</message><color>0,255,0</color><end>947,273</end><next>0</next>
+</right>
+<bottom>
+<next>3</next>
+<0><message>Edit text</message><color>255,0,255</color><end>478,553</end><next>0</next>
+<1><message>Edit text</message><color>0,255,0</color><end>312,553</end><next>0</next>
+<2><message>Edit text</message><color>255,0,0</color><end>511,528</end><next>0</next>
+</bottom>
+<left>
+<next>2</next>
+<0><message>Edit text</message><color>255,175,175</color><end>83,303</end><next>0</next>
+<1><message>Edit text</message><color>255,0,0</color><end>93,333</end><next>0</next>
+</left>

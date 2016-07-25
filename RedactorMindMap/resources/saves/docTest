@@ -1,0 +1,93 @@
+<title>new Diagram</title>
+<center>540,292</center>
+<top>
+<next>3</next>
+<0><message>yellow line</message><color>255,255,0</color><end>623,42</end><next>0</next>
+<1><message>pink line</message><color>255,175,175</color><end>457,42</end><next>0</next>
+<2><message>first line</message><color>255,255,0</color><end>656,67</end><next>0</next>
+</top>
+<right>
+<next>1</next>
+<0><message>green line</message><color>0,255,0</color><end>852,292</end><next>0</next>
+</right>
+<bottom>
+<next>1</next>
+<0><message>unnamed line</message><color>255,255,0</color><end>623,542</end><next>0</next>
+</bottom>
+<left>
+<next>2</next>
+<0><message>second line</message><color>255,175,175</color><end>228,292</end><next>0</next>
+<1><message>last line</message><color>255,255,0</color><end>238,322</end><next>0</next>
+</left>
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>Test diagram</title>
+<center>540,292</center>
+<top>
+<next>3</next>
+<0><message>yellow line</message><color>255,255,0</color><end>623,42</end><next>0</next>
+<1><message>Edit text</message><color>255,175,175</color><end>457,42</end><next>0</next>
+<2><message>first line</message><color>255,255,0</color><end>656,67</end><next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>0</next>
+</bottom>
+<left>
+<next>0</next>
+</left>
+<title>new Diagram</title>
+<center>540,292</center>
+<top>
+<next>3</next>
+<0><message>yellow line</message><color>255,255,0</color><end>623,42</end><next>0</next>
+<1><message>pink line</message><color>255,175,175</color><end>457,42</end><next>0</next>
+<2><message>first line</message><color>255,255,0</color><end>656,67</end><next>0</next>
+</top>
+<right>
+<next>0</next>
+</right>
+<bottom>
+<next>1</next>
+<0><message>Edit text</message><color>255,255,0</color><end>623,542</end><next>0</next>
+</bottom>
+<left>
+<next>2</next>
+<0><message>Edit text</message><color>255,175,175</color><end>228,292</end><next>0</next>
+<1><message>Edit text</message><color>255,255,0</color><end>238,322</end><next>0</next>
+</left>
+<title>new Diagram</title>
+<center>540,292</center>
+<top>
+<next>3</next>
+<0><message>yellow line</message><color>255,255,0</color><end>623,42</end><next>0</next>
+<1><message>pink line</message><color>255,175,175</color><end>457,42</end><next>0</next>
+<2><message>first line</message><color>255,255,0</color><end>656,67</end><next>0</next>
+</top>
+<right>
+<next>1</next>
+<0><message>green line</message><color>0,255,0</color><end>852,292</end><next>0</next>
+</right>
+<bottom>
+<next>1</next>
+<0><message>unnamed line</message><color>255,255,0</color><end>623,542</end><next>0</next>
+</bottom>
+<left>
+<next>2</next>
+<0><message>second line</message><color>255,175,175</color><end>228,292</end><next>0</next>
+<1><message>Edit text</message><color>255,255,0</color><end>238,322</end><next>0</next>
+</left>
